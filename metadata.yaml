@@ -1,0 +1,12 @@
+- name: Cubic11
+  displayname: 俐方體11號 
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/Cubic11
+        codes: 10215
+        weight: 400
+        xfl: true
